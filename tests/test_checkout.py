@@ -3,7 +3,7 @@ from tempfile import NamedTemporaryFile
 
 import pytest
 
-from cofi_store import Checkout, CheckoutIssuer
+from cofi_store import CheckoutIssuer
 from tests.constants import VALID_JSON
 
 

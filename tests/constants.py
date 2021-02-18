@@ -1,4 +1,3 @@
-
 VALID_JSON = {
     "products": [
         {"code": "VOUCHER", "name": "Cofi Voucher", "price": 5.0},
