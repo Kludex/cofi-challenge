@@ -5,13 +5,8 @@
     <a href="https://github.com/Kludex/cofi-challenge" target="_blank">
         <img src="https://img.shields.io/github/last-commit/Kludex/cofi-challenge" alt="Latest Commit">
     </a>
-        <img src="https://img.shields.io/github/workflow/status/Kludex/cofi-challenge/Test">
-        <img src="https://img.shields.io/codecov/c/github/Kludex/cofi-challenge">
-    <br />
-    <a href="https://pypi.org/project/cofi-challenge" target="_blank">
-        <img src="https://img.shields.io/pypi/v/cofi-challenge" alt="Package version">
-    </a>
-    <img src="https://img.shields.io/pypi/pyversions/cofi-challenge">
+    <img src="https://img.shields.io/github/workflow/status/Kludex/cofi-challenge/Test">
+    <img src="https://img.shields.io/codecov/c/github/Kludex/cofi-challenge">
     <img src="https://img.shields.io/github/license/Kludex/cofi-challenge">
 </p>
 
